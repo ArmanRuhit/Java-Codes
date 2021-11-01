@@ -1,6 +1,6 @@
 {
   "java.project.sourcePaths": [
-    "2.Objects&Classes",
-    "1.BasicSyntax"
-  ]
+    "."
+  ],
+  "java.project.outputPath": "Outputs"
 }
