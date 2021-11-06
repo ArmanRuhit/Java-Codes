@@ -1,3 +1,5 @@
+package Inheritence;
+
 class Super_class {
   int num = 20;
 

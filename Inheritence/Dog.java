@@ -1,3 +1,6 @@
+package Inheritence;
+
+
 class Animal {
 }
 
